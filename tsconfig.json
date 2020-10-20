@@ -10,6 +10,7 @@
     "node_modules"
   ],
   "include": [
-    "./src/main.ts"
+    "./src/main.ts",
+    "./src/viensAlv.ts"
   ]
 }
